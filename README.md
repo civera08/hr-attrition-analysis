@@ -45,8 +45,9 @@ hr-attrition-analysis/
 
 ## Vistas previas
 
-<img src="https://github.com/civera08/hr-attrition-analysis/raw/main/Distribucion_Abandono_Categoria.png" width="600">
-<img src="https://github.com/civera08/hr-attrition-analysis/raw/main/Matriz_Correlacion_Variable.png" width="600">
+![Distribución de abandono](https://github.com/civera08/hr-attrition-analysis/raw/main/Distribucion_Abandono_Categoria.png)
+
+![Matriz de correlación](https://github.com/civera08/hr-attrition-analysis/raw/main/Matriz_Correlacion_Variable.png)
 
 ---
 
