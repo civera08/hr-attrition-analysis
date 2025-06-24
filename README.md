@@ -59,7 +59,7 @@ Este análisis exploratorio nos permitió identificar tendencias relevantes para
 - **Rol y área**: Ciertos puestos operativos, como técnicos de laboratorio y vendedores, presentan mayor rotación.
 - **Factores personales**: Los empleados solteros y quienes viven lejos tienen mayores tasas de salida.
 
-## Estos hallazgos pueden ser utilizados para enfocar estrategias de retención más efectivas, como mejorar la flexibilidad laboral, optimizar procesos de promoción interna y brindar seguimiento más cercano a perfiles de riesgo.
+Estos hallazgos pueden ser utilizados para enfocar estrategias de retención más efectivas, como mejorar la flexibilidad laboral, optimizar procesos de promoción interna y brindar seguimiento más cercano a perfiles de riesgo.
 
 ## Contacto
 
