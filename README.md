@@ -20,13 +20,13 @@ El dataset original está disponible en:
 ## Herramientas utilizadas
 
 - Python (pandas, matplotlib, seaborn)
-- Jupyter Notebook
+- VS Code
 - Visualización de datos
 - Limpieza y transformación básica
 
 ## Estructura del proyecto
 
-´´´
+```
 hr-attrition-analysis/
 ├── data/
 ├── notebooks/
@@ -34,7 +34,7 @@ hr-attrition-analysis/
 ├── images/
 ├── README.md
 └── requirements.txt
-´´´
+```
 
 ## Insights clave
 
@@ -45,8 +45,8 @@ hr-attrition-analysis/
 
 ## Vistas previas
 
-<img src="images/attrition_boxplot.png" width="600">
-<img src="images/attrition_rate_overtime.png" width="600">
+<img src="[images/attrition_boxplot.png](https://github.com/civera08/hr-attrition-analysis/blob/main/Distribucion_Abandono_Categoria.png)" width="600">
+<img src="[images/attrition_rate_overtime.png](https://github.com/civera08/hr-attrition-analysis/blob/main/Matriz_Correlacion_Variable.png)" width="600">
 
 ---
 
